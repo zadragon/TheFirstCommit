@@ -1,2 +1,2 @@
-email :
-gitID :
+email : mase0804@naver.com
+gitID : zadragon
